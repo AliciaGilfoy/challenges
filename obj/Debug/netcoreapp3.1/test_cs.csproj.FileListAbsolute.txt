@@ -1,0 +1,13 @@
+C:\source\codeworks\test_cs\bin\Debug\netcoreapp3.1\test_cs.exe
+C:\source\codeworks\test_cs\bin\Debug\netcoreapp3.1\test_cs.deps.json
+C:\source\codeworks\test_cs\bin\Debug\netcoreapp3.1\test_cs.runtimeconfig.json
+C:\source\codeworks\test_cs\bin\Debug\netcoreapp3.1\test_cs.runtimeconfig.dev.json
+C:\source\codeworks\test_cs\bin\Debug\netcoreapp3.1\test_cs.dll
+C:\source\codeworks\test_cs\bin\Debug\netcoreapp3.1\test_cs.pdb
+C:\source\codeworks\test_cs\obj\Debug\netcoreapp3.1\test_cs.csprojAssemblyReference.cache
+C:\source\codeworks\test_cs\obj\Debug\netcoreapp3.1\test_cs.csproj.CoreCompileInputs.cache
+C:\source\codeworks\test_cs\obj\Debug\netcoreapp3.1\test_cs.AssemblyInfoInputs.cache
+C:\source\codeworks\test_cs\obj\Debug\netcoreapp3.1\test_cs.AssemblyInfo.cs
+C:\source\codeworks\test_cs\obj\Debug\netcoreapp3.1\test_cs.dll
+C:\source\codeworks\test_cs\obj\Debug\netcoreapp3.1\test_cs.pdb
+C:\source\codeworks\test_cs\obj\Debug\netcoreapp3.1\test_cs.genruntimeconfig.cache
